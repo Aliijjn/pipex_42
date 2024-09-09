@@ -13,4 +13,4 @@ The programme will read the infile and use that as input for the first command,
 which will send its output to the second command, which will write its output to the outfile.
 There's one twist to this however, the commands are both forks of the main programme, and can only communicate via pipes.
 
-Made by Alijn Kuijer, 2023
+Made by Alijn Kuijer, 2024
