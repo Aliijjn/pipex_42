@@ -1,12 +1,12 @@
-## pipex_42
+# pipex_42
 
-# skills learned from project
+### skills learned from project
 - Reading and writing to files
 - Using pipes and forks
 - Proper error management
 - The basics of multithreading
 
-# project goal
+### project goal
 Pipex is a project in the 42 curriculum, about forks and pipes.
 The goal of the project is to write a programme, that takes in the following: `INFILE, COMMAND1, COMMAND2, OUTFILE`
 The programme will read the infile and use that as input for the first command,
